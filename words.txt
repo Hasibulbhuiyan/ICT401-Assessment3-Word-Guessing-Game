@@ -1,0 +1,6 @@
+APPLE|A fruit that can be red or green
+PYTHON|A programming language named after a snake
+OCEAN|A very large body of salt water
+GUITAR|A musical instrument with strings
+NETWORK|A connected group of computers or devices
+KEYBOARD|A device used to enter text into a computer
